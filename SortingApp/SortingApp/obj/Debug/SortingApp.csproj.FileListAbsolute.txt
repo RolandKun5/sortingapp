@@ -1,0 +1,10 @@
+D:\Roli\Programozas\C#\Projektek\SortingApp\SortingApp\bin\Debug\SortingApp.exe.config
+D:\Roli\Programozas\C#\Projektek\SortingApp\SortingApp\bin\Debug\SortingApp.exe
+D:\Roli\Programozas\C#\Projektek\SortingApp\SortingApp\bin\Debug\SortingApp.pdb
+D:\Roli\Programozas\C#\Projektek\SortingApp\SortingApp\obj\Debug\SortingApp.csprojAssemblyReference.cache
+D:\Roli\Programozas\C#\Projektek\SortingApp\SortingApp\obj\Debug\SortingApp.frmMain.resources
+D:\Roli\Programozas\C#\Projektek\SortingApp\SortingApp\obj\Debug\SortingApp.Properties.Resources.resources
+D:\Roli\Programozas\C#\Projektek\SortingApp\SortingApp\obj\Debug\SortingApp.csproj.GenerateResource.cache
+D:\Roli\Programozas\C#\Projektek\SortingApp\SortingApp\obj\Debug\SortingApp.csproj.CoreCompileInputs.cache
+D:\Roli\Programozas\C#\Projektek\SortingApp\SortingApp\obj\Debug\SortingApp.exe
+D:\Roli\Programozas\C#\Projektek\SortingApp\SortingApp\obj\Debug\SortingApp.pdb
